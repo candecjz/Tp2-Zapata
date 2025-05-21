@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    background-color: #a9bea9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedor {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 8px;
+}
+
+.contenedor h1 {
+    text-align: center;
+}
+
+#imcFormulario {
+    display: flex;
+    flex-direction: column;
+}
+
+#imcFormulario label {
+    margin-top: 10px;
+}
+
+#imcFormulario input {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #00000041;
+    border-radius: 4px;
+}
+
+#imcFormulario button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #286335;
+    color: #c4d0c5;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
