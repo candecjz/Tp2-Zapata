@@ -3,3 +3,5 @@ Hello World!
 
 halo dunia en Indonesio
 aloha honua en hawaiano
+
+你好世界 en Chino
