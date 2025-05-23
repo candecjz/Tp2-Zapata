@@ -2,3 +2,4 @@ olá mundo en portugues
 Hello World!
 
 halo dunia en Indonesio
+aloha honua en hawaiano
