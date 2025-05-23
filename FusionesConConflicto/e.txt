@@ -1,2 +1,4 @@
 olá mundo en portugues
 Hello World!
+
+aloha honua en hawaiano
